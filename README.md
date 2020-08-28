@@ -1,6 +1,8 @@
 # i-am-sleepy-af
 
+Sorry for not mentioning the dataset i used. I don't have the energy to actually search it right now. Will sure tomorrow morning.
 
+(I don't have a powerful machine which forces me to reduce the image sizes to 70 into 70 pixels at max. This might be affecting accuracy of the model. Edit the resize sizes according to your machine.)
 
 This is a readme for a CNN pokemon identifier. And the title justifies the situation i am currently in, extremely sleepy. Faiza used to hate pokemons so i designed this. Notes :
 * cv2 has problems in reading some images which is why the preprocessing filters out the error causing images.
