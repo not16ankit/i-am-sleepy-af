@@ -9,3 +9,5 @@ This is a readme for a CNN pokemon identifier. And the title justifies the situa
 * The accuracy is very low just because i am training the model with one sample each.
 * Me being a rookie, couldn't figure out why there was a matrix mismatch at the output layer. The resultant vector had to be 1 into 1 matrix but my dumb ass had set       the thing to output a 1 into 720 matrix.
 * Do tell me how the model works if someone tries it on more than one samples.
+
+As usual run python3
